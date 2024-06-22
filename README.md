@@ -1,1 +1,1 @@
-# Clasificador-de-Im-genes-de-Flores
+# Clasificador-de-Imagenes-de-Flores
