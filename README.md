@@ -1,4 +1,4 @@
-# Clasificador de Imagenes de Flores
+# Clasificador de Imágenes de Flores
 
 ### Autores: Andrés Felipe Escalante Portilla, Edinson Giovanny Ojeda Ortega.
 ### Objetivo: Clasificación de imágenes de flores de 16 tipos diferentes utilizando modelos de Machine Learning.
