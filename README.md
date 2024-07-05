@@ -7,3 +7,4 @@
 ### Dataset: https://www.kaggle.com/datasets/l3llff/flowers
 ### Modelos: DecisionTree, RandomForest, SVC y Redes neuronales artificial.
 ### Link código: https://drive.google.com/drive/folders/1vhe758H47VPtwXXw6KTPRRuSSn1YcGRd?usp=sharing
+### Video: https://youtu.be/GEFHL30BMIM
